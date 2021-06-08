@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Erthical hacking
 - 💞️ I’m looking to collaborate on ...projects
-- 📫 How to reach me ...Johnson ik I dad is gmail.com
+- 📫 How to reach me ...johnsonmikidadi@gmail.com
 
 <!---
 Crownix-ops/Crownix-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
